@@ -1,2 +1,2 @@
-# coffee-shop-web
+# Coffee-shop-web
 
